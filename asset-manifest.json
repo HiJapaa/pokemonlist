@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pokemonlist/static/css/main.dfc6d104.css",
+    "main.js": "/pokemonlist/static/js/main.a36a8fb1.js",
+    "static/js/787.519f7a88.chunk.js": "/pokemonlist/static/js/787.519f7a88.chunk.js",
+    "static/media/venusaur.gif": "/pokemonlist/static/media/venusaur.49289a65abbdb0e6b6e1.gif",
+    "static/media/blastoise.gif": "/pokemonlist/static/media/blastoise.3f2fba6f8e8ca028a7b0.gif",
+    "static/media/charizard.gif": "/pokemonlist/static/media/charizard.0fd6fac026f6c77ef0b7.gif",
+    "static/media/ivysaur.gif": "/pokemonlist/static/media/ivysaur.01a381e73228508e9b53.gif",
+    "static/media/wartortle.gif": "/pokemonlist/static/media/wartortle.0adc7021734dafb1865d.gif",
+    "static/media/charmeleon.gif": "/pokemonlist/static/media/charmeleon.2f32d78a68f35464974b.gif",
+    "static/media/pokeball.png": "/pokemonlist/static/media/pokeball.a5002c7f0459fd4ee803.png",
+    "static/media/sun.png": "/pokemonlist/static/media/sun.d07c9ecea0ad9094855a.png",
+    "static/media/charmander.gif": "/pokemonlist/static/media/charmander.bb033f906765fc3bd653.gif",
+    "static/media/bulbasaur.gif": "/pokemonlist/static/media/bulbasaur.3d843f4720f843606c94.gif",
+    "static/media/caterpie.gif": "/pokemonlist/static/media/caterpie.7bf0a6081493f6068c80.gif",
+    "static/media/moon.png": "/pokemonlist/static/media/moon.a5771782332b0bd266d4.png",
+    "static/media/squirtle.gif": "/pokemonlist/static/media/squirtle.863bf1e4031e8223bc68.gif",
+    "index.html": "/pokemonlist/index.html",
+    "main.dfc6d104.css.map": "/pokemonlist/static/css/main.dfc6d104.css.map",
+    "main.a36a8fb1.js.map": "/pokemonlist/static/js/main.a36a8fb1.js.map",
+    "787.519f7a88.chunk.js.map": "/pokemonlist/static/js/787.519f7a88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc6d104.css",
+    "static/js/main.a36a8fb1.js"
+  ]
+}
